@@ -1,2 +1,2 @@
 word=input()
-print(int(word,16))
+print(int(word,16))cd ...cd

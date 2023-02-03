@@ -10,6 +10,5 @@ for num in numbers:
                 error +=1
         if error == 0:
             sosu += 1
-
 print(sosu)
 
